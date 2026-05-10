@@ -7,7 +7,7 @@ Este projeto é um pipeline de Engenharia de Dados ponta a ponta (ETL) criado pa
 * **Linguagem:** Python 3
 * **Orquestração:** Apache Airflow
 * **Contêinerização:** Docker & Docker Compose
-* **Banco de Dados:** PostgreSQL 16
+* **Banco de Dados:** PostgreSQL 18
 * **Processamento de Dados:** Pandas & Arrow (Formato Parquet)
 * **Gerenciamento de Dependências:** `uv`
 * **Interação com Banco:** SQLAlchemy & Psycopg2
