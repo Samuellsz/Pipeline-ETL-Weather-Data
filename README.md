@@ -7,7 +7,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 🎯 Sobre o Projeto
-Este é um projeto ponta a ponta de Engenharia de Dados focado na construção de um **Pipeline ETL** autônomo. O objetivo é extrair dados meteorológicos em tempo real da cidade de São Paulo, transformar esses dados para um formato otimizado e carregá-לוs em um banco de dados relacional para análises futuras.
+Este é um projeto ponta a ponta de Engenharia de Dados focado na construção de um **Pipeline ETL** autônomo. O objetivo é extrair dados meteorológicos em tempo real da cidade de São Paulo, transformar esses dados para um formato otimizado e carregá-los em um banco de dados relacional para análises futuras.
 
 Todo o fluxo de orquestração foi construído utilizando **Apache Airflow** rodando em um ambiente conteinerizado com **Docker**, garantindo isolamento, escalabilidade e facilidade de implantação.
 ## 🛠️ Tecnologias Utilizadas
